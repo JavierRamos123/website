@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/woman.jpg);
+    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/juzcar.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -87,6 +87,7 @@ body{
 .titulo{
     font-size: 60px;
     margin-bottom: 15px;
+    color: #7538b3;
 }
 
 .copy{
@@ -216,6 +217,7 @@ body{
     display: block;
     margin: auto;
     width: 80%;
+    height: 15em;
 }
 
 .n-expert{
